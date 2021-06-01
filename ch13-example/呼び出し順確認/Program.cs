@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace 呼び出し順確認
+namespace ch13_example
 {
     class Program
     {
