@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "呼び出し順確認", "呼び出し順確認\呼び出し順確認.csproj", "{F8C74A3C-9FBC-4706-AC2F-BB13D473F7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8C74A3C-9FBC-4706-AC2F-BB13D473F7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C74A3C-9FBC-4706-AC2F-BB13D473F7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C74A3C-9FBC-4706-AC2F-BB13D473F7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C74A3C-9FBC-4706-AC2F-BB13D473F7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AED7E167-3F26-476C-92C8-456B15B05A59}
+	EndGlobalSection
+EndGlobal
